@@ -80,7 +80,8 @@ git push origin main
 ## 🏆 Future Enhancements
 ✅ Add a chatbot training model using deep learning  
 ✅ Add more conversational depth and context retention  
-✅ Improve UI with interactive animations  
+✅ Improve UI with interactive animations
+✅ Add speech conversation
 
 ## 📝 License
 This project is open-source under the **MIT License**.
